@@ -8,7 +8,7 @@ const article = () => {
 };
 
 
-export const getServerSideProps= async(context)=>{
+export conGHVYU 7IGYJst getServerSideProps= async(context)=>{
   const res=await fetch();
 }
 
